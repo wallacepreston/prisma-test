@@ -2,6 +2,12 @@
 
 ## Setup
 
+add .env file variables
+
+```bash
+DATABASE_URL=<database-connection-string>
+```
+
 install
 
 ```bash
